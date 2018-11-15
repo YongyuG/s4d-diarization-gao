@@ -16,6 +16,9 @@ INSTALLATION
 I recommend you use anaconda, and create a new working envrionment by:  
 conda env create -f environment.yml -p <your env path>
 
+Usage
+============
+python gl_bic_ahc_viterbi.py wavPath mfccMethod OutputPath
 
 Other things
 ============
