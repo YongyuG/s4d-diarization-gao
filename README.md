@@ -25,9 +25,9 @@ example1.wav and example2.wav is some example wavform for testing.
 you can directly using "gl_bic_ahc_viterbi.py" if you want  
 algo.py, is editted version for my docker build.
 
-start.sh
-run.sh
-Dockerfile  
+start.sh  
+run.sh  
+Dockerfile   
 algo_pyproxy_agent  
 server.py  
 test.py  
