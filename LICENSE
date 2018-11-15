@@ -1,0 +1,16 @@
+# SD4 is a python package for speaker diarization based on SIDEKIT.
+# S4D home page: http://www-lium.univ-lemans.fr/s4d/
+# SIDEKIT home page: http://www-lium.univ-lemans.fr/sidekit/
+#
+# S4D is free software: you can redistribute it and/or modify
+# it under the terms of the GNU Lesser General Public License as
+# published by the Free Software Foundation, either version 3 of the License,
+# or (at your option) any later version.
+#
+# S4D is distributed in the hope that it will be useful,
+# but WITHOUT ANY WARRANTY; without even the implied warranty of
+# MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+# GNU Lesser General Public License for more details.
+#
+# You should have received a copy of the GNU Lesser General Public License
+# along with SIDEKIT.  If not, see <http://www.gnu.org/licenses/>.

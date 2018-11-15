@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$USER_HOME$/i2rsv/.idea/i2rsv.iml" filepath="$USER_HOME$/i2rsv/.idea/i2rsv.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../i2rsv/.idea/i2rsv.iml" filepath="$PROJECT_DIR$/../i2rsv/.idea/i2rsv.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/s4d.iml" filepath="$PROJECT_DIR$/.idea/s4d.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../s4d_scripts/.idea/s4d_scripts.iml" filepath="$PROJECT_DIR$/../s4d_scripts/.idea/s4d_scripts.iml" />
+      <module fileurl="file://$USER_HOME$/diarization/selection_donnees/.idea/selection_donnees.iml" filepath="$USER_HOME$/diarization/selection_donnees/.idea/selection_donnees.iml" />
+    </modules>
+  </component>
+</project>

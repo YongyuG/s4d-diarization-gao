@@ -1,0 +1,8 @@
+diarization.egg-info/
+s4d.egg-info/
+*/__pycache__/
+*.pyc
+tutorials/
+gaoS4D/
+
+

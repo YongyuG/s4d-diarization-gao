@@ -1,0 +1,11 @@
+pandas==0.21.1
+PyAudio==0.2.11
+numpy==1.13.3
+scipy==0.19.0
+matplotlib==2.0.2
+Bottleneck==1.2.1
+setuptools==38.5.2
+sidekit==1.2.3
+six==1.11.0
+scikit_learn==0.19.1
+sortedcontainers==1.5.9
